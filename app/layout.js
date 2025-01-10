@@ -1,6 +1,6 @@
-import "./globals.css";
 import localFont from "next/font/local";
-
+import "./globals.css";
+import 'easymde/dist/easymde.min.css'
 // const geistSans = Geist({
 //   variable: "--font-geist-sans",
 //   subsets: ["latin"],
